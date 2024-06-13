@@ -19,6 +19,13 @@
     transition: .2s linear;
 }
 
+.body{
+  background-color: #130f40;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 html{
     font-size: 62.5%;
     overflow-x: hidden;
@@ -202,6 +209,7 @@ section{
     padding-top: 10rem;
     text-align: center;
     overflow-x: hidden;
+    color: #f9d806;
 }
 
 .home h3{
