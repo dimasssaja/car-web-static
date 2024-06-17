@@ -64,7 +64,7 @@ section{
     display: inline-block;
     margin-top: 1rem;
     padding:.8rem 3rem;
-    background:var(--light-yellow);
+    background:red;
     color:var(--black);
     cursor: pointer;
     font-size: 1.7rem;
@@ -74,7 +74,7 @@ section{
 }
 
 .btn:hover{
-    background:var(--yellow);
+    background:var(--light-color);
 }
 
 .header{
@@ -95,7 +95,7 @@ section{
 }
 
 .header .logo span{
-    color:var(--yellow);
+    color:var(--light-color);
 }
 
 .header .navbar a{
@@ -104,8 +104,9 @@ section{
     color:var(--black);
 }
 
+
 .header .navbar a:hover{
-    color:var(--yellow);
+    color:red;
 }
 
 #login-btn .btn{
